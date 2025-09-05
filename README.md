@@ -1,6 +1,6 @@
 # Sales Performance Dashboard (Power BI)
 
-This is a **Sales Performance Dashboard** I built in Power BI.  
+A **Sales Performance Dashboard**  built using Power BI.  
 The goal was to make it easy for sales managers and executives to review sales over time, filter by dates, and drill into details.  
 I worked with a sample dataset (originally from an EDW) and designed the dashboard to be simple, interactive, and useful for quick decision-making.
 
